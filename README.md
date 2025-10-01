@@ -34,10 +34,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-### 🔧 Others  
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=azuredevops&logoColor=white) 
-![Version Control](https://img.shields.io/badge/Version_Control-000000?style=for-the-badge&logo=github&logoColor=white) 
-![Deployment](https://img.shields.io/badge/Deployment-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)  
 
 
 
