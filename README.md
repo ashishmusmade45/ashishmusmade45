@@ -2,16 +2,12 @@
 <h1 align="center">Hi 👋, I'm Ashish Musmade</h1>
 
 
-
----
-
 ### 💡 About Me
 
 ✨ I’m a passionate and curious tech enthusiast with a strong focus on Web Development and  Artificial Intelligence . As an 🎓 engineering student, I thrive at the intersection of creativity and logic ⚡, transforming ideas into impactful, real-world applications.
 
 💻 Over time, I’ve built projects in full-stack web development and explored AI-driven solutions, constantly learning , adapting , and growing 🌱. I believe in writing clean , efficient ⚙️ code and solving problems through scalable solutions 🚀.
 
----
 
 ## 🛠️ Skills & Technologies  
 
@@ -46,10 +42,6 @@
 
 
 
-
----
-
-
 ### 💬 Let’s Connect
 
 <p align="center">
@@ -61,4 +53,3 @@
   
 </p>
 
----
