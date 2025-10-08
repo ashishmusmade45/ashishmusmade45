@@ -1,7 +1,6 @@
 <!---- HEADER / HERO ---->
 <h1 align="center">Hi 👋, I'm Ashish Musmade</h1>
 
-
 ### 💡 About Me
 
 ✨ I’m a passionate and curious tech enthusiast with a strong focus on Web Development and  Artificial Intelligence . As an 🎓 engineering student, I thrive at the intersection of creativity and logic ⚡, transforming ideas into impactful, real-world applications.
