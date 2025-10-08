@@ -41,15 +41,11 @@
 ![Deployment](https://img.shields.io/badge/Deployment-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)  
 
 ---
-
 ## 📊 GitHub Stats
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishmusmade45&show_icons=true&theme=default&hide_border=false&count_private=true)
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishmusmade45&show_icons=true&theme=github_dark&hide_border=false&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashishmusmade45&theme=default&hide_border=false)
-
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashishmusmade45&theme=github-dark-blue&hide_border=false)
 
 ---
 
