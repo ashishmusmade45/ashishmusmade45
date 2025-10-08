@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Musmade</h1>
 
 
-
----
-
 ### 💡 About Me
 
 ✨ I’m a passionate and curious tech enthusiast with a strong focus on Web Development and  Artificial Intelligence . As an 🎓 engineering student, I thrive at the intersection of creativity and logic ⚡, transforming ideas into impactful, real-world applications.
@@ -42,7 +39,9 @@
 ![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=azuredevops&logoColor=white) 
 ![Version Control](https://img.shields.io/badge/Version_Control-000000?style=for-the-badge&logo=github&logoColor=white) 
 ![Deployment](https://img.shields.io/badge/Deployment-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)  
+
 ---
+
 ## 📊 GitHub Stats
 
 ![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishmusmade45&show_icons=true&theme=default&hide_border=false&count_private=true)
@@ -66,6 +65,3 @@
 
   
 </p>
-
----
-
