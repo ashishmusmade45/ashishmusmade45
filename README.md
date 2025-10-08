@@ -2,12 +2,16 @@
 <h1 align="center">Hi 👋, I'm Ashish Musmade</h1>
 
 
+
+---
+
 ### 💡 About Me
 
 ✨ I’m a passionate and curious tech enthusiast with a strong focus on Web Development and  Artificial Intelligence . As an 🎓 engineering student, I thrive at the intersection of creativity and logic ⚡, transforming ideas into impactful, real-world applications.
 
 💻 Over time, I’ve built projects in full-stack web development and explored AI-driven solutions, constantly learning , adapting , and growing 🌱. I believe in writing clean , efficient ⚙️ code and solving problems through scalable solutions 🚀.
 
+---
 
 ## 🛠️ Skills & Technologies  
 
@@ -34,18 +38,34 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
+### 🔧 Others  
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=azuredevops&logoColor=white) 
+![Version Control](https://img.shields.io/badge/Version_Control-000000?style=for-the-badge&logo=github&logoColor=white) 
+![Deployment](https://img.shields.io/badge/Deployment-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)  
+---
+## 📊 GitHub Stats
+
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishmusmade45&show_icons=true&theme=default&hide_border=false&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashishmusmade45&theme=default&hide_border=false)
 
 
+
+
+---
 
 
 ### 💬 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ashish-musmade" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
-  
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/MusmadeAsh78292" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Logo"/>
 </a>
+
   
 </p>
+
+---
 
